@@ -1,5 +1,7 @@
 The files go into the `chrome` folder, go to `about:profiles` open the root directory, if there is no `chrome` folder, create one.
 
+Go to `about:config` and set `browser.theme.dark-private-windows` to false to fix the coloring issue in Private Window.
+
 This also works for Floorp and Librewolf.
 
 It works best in compact mode, both in the legacy design and the Nova redesign.
